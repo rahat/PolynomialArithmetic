@@ -1,0 +1,112 @@
+Input 1: 0 5
+Input 2: 2 1
+Polynomial 1 (Canonical): 0
+Polynomial 2 (Canonical): 2X^1
+Sum: 2X^1
+Difference: -2X^1
+Product: 0
+
+Input 1: 0 3 1 5
+Input 2: 1 1 0 2 0 2 4 5 1 3
+Polynomial 1 (Canonical): X^5
+Polynomial 2 (Canonical): 4X^5 + X^3 + X^1
+Sum: 5X^5 + X^3 + X^1
+Difference: -3X^5 + -1X^3 + -1X^1
+Product: 4X^10 + X^8 + X^6
+
+Input 1: 1 0 4 3 0 2 3 3 4 4
+Input 2: 3 1 5 0
+Polynomial 1 (Canonical): 4X^4 + 7X^3 + 1
+Polynomial 2 (Canonical): 3X^1 + 5
+Sum: 4X^4 + 7X^3 + 3X^1 + 6
+Difference: 4X^4 + 7X^3 + -3X^1 + -4
+Product: 12X^5 + 41X^4 + 35X^3 + 3X^1 + 5
+
+Input 1: 4 2 4 2 4 0
+Input 2: 4 0
+Polynomial 1 (Canonical): 8X^2 + 4
+Polynomial 2 (Canonical): 4
+Sum: 8X^2 + 8
+Difference: 8X^2
+Product: 32X^2 + 16
+
+Input 1: 2 2
+Input 2: 3 2
+Polynomial 1 (Canonical): 2X^2
+Polynomial 2 (Canonical): 3X^2
+Sum: 5X^2
+Difference: -1X^2
+Product: 6X^4
+
+Input 1: -3 2 1 3 5 0 -9 1
+Input 2: 2 1 3 4 -1 1 2 3 5 0
+Polynomial 1 (Canonical): X^3 + -3X^2 + -9X^1 + 5
+Polynomial 2 (Canonical): 3X^4 + 2X^3 + X^1 + 5
+Sum: 3X^4 + 3X^3 + -3X^2 + -8X^1 + 10
+Difference: -3X^4 + -1X^3 + -3X^2 + -10X^1
+Product: 3X^7 + -7X^6 + -33X^5 + -2X^4 + 12X^3 + -24X^2 + -40X^1 + 25
+
+Input 1: 2 0
+Input 2: 2 0
+Polynomial 1 (Canonical): 2
+Polynomial 2 (Canonical): 2
+Sum: 4
+Difference: 0
+Product: 4
+
+Input 1: 0 0
+Input 2: 1 2 2 1 4 0
+Polynomial 1 (Canonical): 0
+Polynomial 2 (Canonical): X^2 + 2X^1 + 4
+Sum: X^2 + 2X^1 + 4
+Difference: -1X^2 + -2X^1 + -4
+Product: 0
+
+Input 1: 2 1 -2 1
+Input 2: 0 3
+Polynomial 1 (Canonical): 0
+Polynomial 2 (Canonical): 0
+Sum: 0
+Difference: 0
+Product: 0
+
+Input 1: 7 4 8 2 7 3 0 2 2 0 1 7
+Input 2: 0 2 3 4 5 6
+Polynomial 1 (Canonical): X^7 + 7X^4 + 7X^3 + 8X^2 + 2
+Polynomial 2 (Canonical): 5X^6 + 3X^4
+Sum: X^7 + 5X^6 + 10X^4 + 7X^3 + 8X^2 + 2
+Difference: X^7 + -5X^6 + 4X^4 + 7X^3 + 8X^2 + 2
+Product: 5X^13 + 3X^11 + 35X^10 + 35X^9 + 61X^8 + 21X^7 + 34X^6 + 6X^4
+
+Input 1: 1 0 1 1
+Input 2: -1 0 1 1
+Polynomial 1 (Canonical): X^1 + 1
+Polynomial 2 (Canonical): X^1 + -1
+Sum: 2X^1
+Difference: 2
+Product: X^2 + 0-1
+
+Input 1: 1 1 -1 1 1 1 -1 1 
+Input 2: 1 2 1 2 1 2 1 2 
+Polynomial 1 (Canonical): 0
+Polynomial 2 (Canonical): 4X^2
+Sum: 4X^2
+Difference: -4X^2
+Product: 0
+
+Input 1: 0 0 0 0 0 0 0 0 0 0 
+Input 2: 0 0 1 1 0 0 0 0 
+Polynomial 1 (Canonical): 0
+Polynomial 2 (Canonical): X^1
+Sum: X^1
+Difference: -1X^1
+Product: 0
+
+Input 1: -1 0 5 1 20 3 -9 2 -2 1 1 2 -2 3 1 9
+Input 2: 0 0
+Polynomial 1 (Canonical): X^9 + 18X^3 + -8X^2 + 3X^1 + -1
+Polynomial 2 (Canonical): 0
+Sum: X^9 + 18X^3 + -8X^2 + 3X^1 + -1
+Difference: X^9 + 18X^3 + -8X^2 + 3X^1 + -1
+Product: 0
+
